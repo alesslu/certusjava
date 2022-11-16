@@ -9,6 +9,6 @@ var total_menores = menores*80
 alert (
     'Recaudado de Entradas: '+ 
     '\nGenerales: ' + total_general +
-    '\nMayores de 65: ' + total_mayores + '%' +
-    '\nMenores de edad: ' + total_menores + '%'
+    '\nMayores de 65: ' + 'S/. ' + total_mayores  +
+    '\nMenores de edad: '+ 'S/. ' + total_menores 
 )
